@@ -23,7 +23,7 @@ SELECT "Hello World" FROM bootcamp;
 
 
 ## Contact Information
-Website: [FeirnProforlio.com](https://suchaya134250691.wordpress.com/)
+Website: [FeirnPortfolio.com](https://suchaya134250691.wordpress.com/)
 
 ## Brad Pitt Image
 ![Brad Pitt](https://imgc.allpostersimages.com/img/posters/brad-pitt_u-l-n63d0.jpg?artHeight=550&artPerspective=n&artWidth=550&background=ffffff)

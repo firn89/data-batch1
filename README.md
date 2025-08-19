@@ -1,5 +1,7 @@
 # Data Science Bootcamp Batch 11
-Data Science Bootcamp Projects
+Data Science Bootcamp Projects 😋😋😋😋
+
+This class is awesome!
 
 This bootcamp runs about 4 months, 10 sprints.
 
@@ -11,7 +13,7 @@ This bootcamp runs about 4 months, 10 sprints.
 - Statistics
 - Machine Learning
 - Website with WordPress
-- Python
+- Python for Data Analyst
 - Dashboard
 
 I Love `R programming`. (in line code)
